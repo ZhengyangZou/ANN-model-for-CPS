@@ -3,7 +3,7 @@ An artificial neural network model for the central plasma sheet electron fluexes
 The current project is to construct an An artificial neural network model of the electron number flux model in the Earth's central plasma sheet region.
 The manuscript or paper has sunbmited to Journal of Geophysical Research: Space Physics.
 
-The 24 ANN models for electron elegies from 0.06 kev to 293 keV, which are constructed from the THEMIS based electron data, are saved as '.h5' files as below. 
+The 24 ANN models for electron energies from 0.06 kev to 293 keV, which are constructed from the THEMIS based electron data, are saved as '.h5' files as below. 
 ## Files List:
     File Name                         Related Energy channel (# keV)
     modelCPS_ESA_1_Layer_3.h5                     0.06
