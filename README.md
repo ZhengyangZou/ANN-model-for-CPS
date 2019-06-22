@@ -1,5 +1,5 @@
 # ANN-model-for-CPS
-An artificial neural network model for the central plasma sheet electron fluexes: A THEMIS survey
+An artificial neural network model for the central plasma sheet electron fluexes: A THEMIS survey.
 The current project is to construct an An artificial neural network model of the electron number flux model in the Earth's central plasma sheet region.
 The manuscript or paper has sunbmited to Journal of Geophysical Research: Space Physics.
 
